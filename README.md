@@ -1,5 +1,7 @@
 # The AAA algorithm for rational approximation [![Build Status](https://travis-ci.com/c-f-h/aaa.svg?branch=master)](https://travis-ci.com/c-f-h/aaa)
 
+## NOTE: This library is no longer maintained, and the AAA implementation has been subsumed into the more general ``baryrat`` package! Please follow the link: https://github.com/c-f-h/baryrat
+
 This is a Python implementation of the AAA algorithm for rational approximation
 described in the paper "The AAA Algorithm for Rational Approximation" by Yuji
 Nakatsukasa, Olivier Sète, and Lloyd N. Trefethen, SIAM Journal on Scientific
